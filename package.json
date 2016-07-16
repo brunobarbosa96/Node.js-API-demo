@@ -1,0 +1,19 @@
+{
+  "name": "consulta",
+  "version": "1.0.0",
+  "description": "API para consultar procedure sql",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunobarbosa96/Node.js-API.git"
+  },
+  "author": "Bruno Barbosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunobarbosa96/Node.js-API/issues"
+  },
+  "homepage": "https://github.com/brunobarbosa96/Node.js-API#readme"
+}

@@ -1,9 +1,9 @@
 var sql = require('mssql'),
     config = {
             user: 'Admin',
-            password: 'Fimple@2016',
-            server: '189.90.130.120',
-            database: 'Fimple'
+            password: 'YourPassWord',
+            server: 'YourServer',
+            database: 'YourDataBase'
         };
 
 module.exports = (app) => {
